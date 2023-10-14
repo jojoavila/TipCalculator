@@ -6,7 +6,7 @@ The app take the input from the user, and performs the calculations based on the
 
 The porpouse of this app was to excercise my understanding of Android Studio.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=vOnm7hyR-kA)
 
 # Development Environment
 
